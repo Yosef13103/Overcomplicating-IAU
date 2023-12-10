@@ -1,0 +1,70 @@
+//Text
+*.pdf
+*.doc
+*.docx
+*.accdb
+*.pptx
+*.ppt
+*.xlsx
+*.rtf
+*.txt
+
+//Media
+*.mp4
+*.mp3
+*.m4a
+*.m4v
+*.mkv
+*.wav
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.jfif
+*.prv
+*.ico
+*.heic
+*.svg
+
+//Adobe
+*.prproj
+*.cfa
+*.pek
+*.psd
+
+//Compression
+*.rar
+*.zip
+*.7zip
+
+//Misc
+*.drawio
+*.ini
+*.pcapng
+*.pcap
+*.exe
+*.lnk
+*.erdplus
+*.pkt
+*.crdownload
+
+//Virtual Box
+*.iso
+*.vbox
+*.vbox-prev
+*.vdi
+*.cfg
+*.sh
+*.log
+*.viso
+*.sav
+
+
+// Folders and random files
+\,General
+\3- Second Year (2022-2023)\Term 2\OOP2 (CS321)\Lab\Week 1\CourseRecord_updated\build\
+\3- Second Year 2022-2023\Term 1\Comm & Network Fund. (CIS315)\
+\3- Second Year (2022-2023)\Term 2\OOP2 (CS321)\Project\apache-maven-3.8.7
+\4- Third Year (2023-2024)\1st Term\Operating Systems (CS322)\
+
+.849C9593-D756-4E56-8D6E-42412F2A707B
