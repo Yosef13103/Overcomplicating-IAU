@@ -15,6 +15,7 @@
 *.m4a
 *.m4v
 *.mkv
+*.mov
 *.wav
 *.gif
 *.png
@@ -25,6 +26,7 @@
 *.ico
 *.heic
 *.svg
+*.ogg
 
 //Adobe
 *.prproj
@@ -47,6 +49,10 @@
 *.erdplus
 *.pkt
 *.crdownload
+*.class
+*.rgf
+*.rsf
+*.rbf
 
 //Virtual Box
 *.iso
@@ -66,5 +72,6 @@
 \3- Second Year 2022-2023\Term 1\Comm & Network Fund. (CIS315)\
 \3- Second Year (2022-2023)\Term 2\OOP2 (CS321)\Project\apache-maven-3.8.7
 \4- Third Year (2023-2024)\1st Term\Operating Systems (CS322)\
+\4- Third Year (2023-2024)\2nd Term\Robotics (ARTI407)\Lab\Kanye\
 
 .849C9593-D756-4E56-8D6E-42412F2A707B
