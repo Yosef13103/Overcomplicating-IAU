@@ -8,6 +8,7 @@
 *.xlsx
 *.rtf
 *.txt
+*.csv
 
 //Media
 *.mp4
@@ -53,6 +54,9 @@
 *.rgf
 *.rsf
 *.rbf
+*.pkl
+*.key
+*.bin
 
 //Virtual Box
 *.iso
@@ -72,6 +76,80 @@
 \3- Second Year 2022-2023\Term 1\Comm & Network Fund. (CIS315)\
 \3- Second Year (2022-2023)\Term 2\OOP2 (CS321)\Project\apache-maven-3.8.7
 \4- Third Year (2023-2024)\1st Term\Operating Systems (CS322)\
-\4- Third Year (2023-2024)\2nd Term\Robotics (ARTI407)\Lab\Kanye\
+\4- Third Year (2023-2024)\2nd Term\Robotics (ARTI407)\Lab\Kanye
+\5- COOP Training (2024 Summer)
 
 .849C9593-D756-4E56-8D6E-42412F2A707B
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/Kanye (1).ev3
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/Kanye.ev3
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/Kanye.rsproj
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/Program.ev3
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/apps/Brick Datalog.raf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/apps/Brick Datalog/log.rdf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/prjs/BrkProg_SAVE/BrkProg_002.rpf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/prjs/BrkProg_SAVE/Demo.rpf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/10-lms.rules
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/body.xpm
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/ctrl
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/debug
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/exit
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/gdbinit
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/init
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/iwconfig
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/iwlist
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lms
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lms2012
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/nonvolbt
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/null
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/run
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/wpa_cli
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/wpa_passphrase
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/wpa_supplicant
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/wpa_supplicant.conf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/fb0
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_analog
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_bt
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_dcm
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_display
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_iic
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_motor
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_power
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_pwm
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_sound
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_tst_pin
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_tst_uart
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_uart
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_ui
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_update
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_usbdev
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/lms_usbhost
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/mmcblk0
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/mmcblk0p1
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/dev/sdf1
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/dummy
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_com.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_input.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_memory.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_output.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_sound.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/lib/libc_ui.so
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_analog.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_bt.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_display.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_iic.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_power.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_ppboard.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_pwm.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_sound.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_uart.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_ui.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_usbdev.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/mod/d_usbhost.ko
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/settings/BrickName
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/settings/caldata.rcf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/settings/lastrun.rcf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/settings/typedata.rcf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/settings/typedata50.rcf
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/ui/logfile
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/EV3 Educator Vehicle/sys/ui/testlog
+4- Third Year (2023-2024)/2nd Term/Robotics (ARTI407)/Lab/Kanye/Environments/Sandbox (EV3).rsim
