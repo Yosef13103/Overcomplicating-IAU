@@ -57,6 +57,7 @@
 *.pkl
 *.key
 *.bin
+*.env
 
 //Virtual Box
 *.iso
